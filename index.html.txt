@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart City Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Smart City</h1>
+    <p>Technology for Better Urban Life</p>
+</header>
+
+<section>
+    <h2>Smart Transport</h2>
+    <p>Traffic control using sensors and smart signals.</p>
+</section>
+
+<section>
+    <h2>Smart Healthcare</h2>
+    <p>Online medical services and emergency response systems.</p>
+</section>
+
+<section>
+    <h2>Smart Energy</h2>
+    <p>Solar energy, smart meters and power saving systems.</p>
+</section>
+
+<section>
+    <h2>Smart Education</h2>
+    <p>Digital classrooms and online learning platforms.</p>
+</section>
+
+<section>
+    <h2>Smart Waste Management</h2>
+    <p>Smart bins with sensors for waste collection.</p>
+</section>
+
+<footer>
+    <p>© 2026 Smart City Project</p>
+</footer>
+
+</body>
+</html>
